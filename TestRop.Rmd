@@ -19,3 +19,7 @@ When you save the notebook, an HTML file containing the code and output will be 
 print("yay")
 ```
 
+```{r}
+print("Hello Lindy")
+```
+
