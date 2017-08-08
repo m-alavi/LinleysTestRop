@@ -22,5 +22,6 @@ print("makesomechanges")
 
 ```{r}
 print("Hello Lindy")
+print("blah")
 ```
 
